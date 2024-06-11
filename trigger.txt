@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-hangzhou.aliyuncs.com/yaming116/home-assistant:2024.6
+halohub/halo:2.16 registry.cn-hangzhou.aliyuncs.com/shanhai-docker-hub/halo:2.16
