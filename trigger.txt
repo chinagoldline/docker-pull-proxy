@@ -2,4 +2,4 @@ halohub/halo:2.16 registry.cn-hangzhou.aliyuncs.com/shanhai-docker-hub/halo:2.16
 halohub/halo:2.17 registry.cn-hangzhou.aliyuncs.com/shanhai-docker-hub/halo:2.17
 halohub/halo:2.18 registry.cn-hangzhou.aliyuncs.com/shanhai-docker-hub/halo:2.18
 xhongc/music_tag_web:2.3.0 registry.cn-hangzhou.aliyuncs.com/shanhai-docker-hub/music_tag_web:2.3.0
-yyxx/openvpn:v2.1.1 211.101.247.18:8085/nas/yyxx/openvpn:v2.1.1
+yyxx/openvpn:v2.1.1 http://211.101.247.18:8085/nas/yyxx/openvpn:v2.1.1
